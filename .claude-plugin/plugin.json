@@ -1,6 +1,6 @@
 {
   "name": "nexforce-router",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Nexforce Router no Claude Code: painel com custo por modelo, commit e arquivo, orçamento, guardrails e conexão com a chave do Router.",
   "userConfig": {
     "router_key": {

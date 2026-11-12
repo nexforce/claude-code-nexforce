@@ -4,6 +4,11 @@ Mod do Nexforce Router para Claude Code. Formato baseado em [Keep a Changelog](h
 
 A versão aparece em três lugares, que andam juntos: `version` em `.claude-plugin/plugin.json`, `VERSION` em `hooks/register.tsx` (mostrada abaixo do banner do painel e no `/nexforce`) e o título da entrada neste arquivo.
 
+## [0.2.6] - 2026-11-12
+
+### Alterado
+- Versão de manutenção, sem mudança no comportamento do painel.
+
 ## [0.2.5] - 2026-11-12
 
 ### Alterado
