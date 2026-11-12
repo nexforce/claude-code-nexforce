@@ -1,0 +1,13 @@
+{
+  "name": "nexforce",
+  "owner": {
+    "name": "Nexforce"
+  },
+  "description": "Mods do Nexforce para o Claude Code.",
+  "plugins": [
+    {
+      "name": "nexforce-router",
+      "source": "./"
+    }
+  ]
+}

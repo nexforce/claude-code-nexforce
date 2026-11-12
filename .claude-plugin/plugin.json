@@ -1,0 +1,18 @@
+{
+  "name": "nexforce-router",
+  "version": "0.2.5",
+  "description": "Nexforce Router no Claude Code: painel com custo por modelo, commit e arquivo, orçamento, guardrails e conexão com a chave do Router.",
+  "userConfig": {
+    "router_key": {
+      "type": "string",
+      "title": "Chave do Nexforce Router",
+      "description": "A chave nfc_ do Nexforce Router. Deixe vazia se o Claude Code já fala com o Router por ANTHROPIC_BASE_URL.",
+      "sensitive": true,
+      "required": false
+    }
+  },
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Nexforce"
+  }
+}
